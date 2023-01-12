@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Enter radius of circle"
+read -r radius
+
+area(){
+area = $((radius * 3.14))
+}
+
+echo "Area of circle is: $area"

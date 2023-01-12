@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Script to update the system/distro
+
+sudo apt update
+sudo apt dist-upgrade
+
+exit
